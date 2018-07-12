@@ -12,8 +12,8 @@ Install through composer using `composer require michaeljennings/eloquent-pagina
 
 ```
 "require": {
-	...
-	"michaeljennings/eloquent-paginator": "^1.0"
+  ...
+  "michaeljennings/eloquent-paginator": "^1.0"
 }
 ```
 
