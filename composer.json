@@ -1,0 +1,15 @@
+{
+    "name": "michaeljennings/eloquent-paginator",
+    "description": "Adds a new paginate method to laravel eloquent that retains select statements",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Michael Jennings",
+            "email": "michael.jennings91@gmail.com"
+        }
+    ],
+    "require": {
+        "illuminate/database": "^5.1",
+        "illuminate/pagination": "^5.1"
+    }
+}
